@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @watashiaashishgurung
 - 👀 I’m interested in ... anything information technology related
 - 🌱 I’m currently learning ...data analytics
-- 💞️ I’m looking to collaborate on ...various interresting topic like communication, energy management, data analytics and data sciences
-- 📫 How to reach me ... find me here on github, doing community work on twitch.tv or via LinkIn
+- 💞️ I’m looking to collaborate on ...various interresting topics like communication, energy management, data analytics and data sciences
+- 📫 How to reach me ... find me here on github, doing community work on twitch.tv or via LinkIn 
 - 😄 Pronouns: ... Mr.
 - ⚡ Fun fact: ... "since the beginning of mankind we are trying to catch light inside a stone innit?"
 
