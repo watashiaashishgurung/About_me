@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @watashiaashishgurung
 - 👀 I’m interested in ... anything information technology related
-- 🌱 I’m currently learning ... Advanced data analytics
-- 💞️ I’m looking to collaborate on ... various interresting topics like communication, energy management, data analytics and data sciences Spreadsheets SQL R Python Tableau mermaid
+- 🌱 I’m currently learning ... Advanced data analytics building machine learning models
+- 💞️ I’m looking to collaborate on ... various topics like communication, energy management, data analytics and data sciences
 
 - 📫 How to reach me ... find me here on github, doing community work on twitch.tv or via LinkedIn 
 - 😄 Pronouns: ... Mr.
