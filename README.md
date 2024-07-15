@@ -1,3 +1,5 @@
+"Data science without losing our sense of humour"
+
 Versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, logistic regression, and machine learning models like Naive Bayes and decision trees. Excellent understanding and proficiency of platforms for effective data analysis, cleaning, and visualization, including spreadsheets, Python, and Tableau. Strong communication, organizational, and analytical skills. Recently completed the Google Advanced Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis and data modeling process.
 
 
