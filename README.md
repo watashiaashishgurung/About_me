@@ -28,6 +28,8 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 <summary>IBM JS Fullstack Developer Course</summary>  
     
   **• Full-Stack GiftApp (Capstone Project - IBM Full-Stack Dev)**  
+  👉 [IBM Full-Stack Capstone Project Repository](https://github.com/watashiaashishgurung/IBM-fullstack-capstone-project)
+
   **• Shopping Cart Web App (React, Redux, Node.js, MongoDB)**  
   **• Weather Data Fetching Web App (REST APIs, React, OpenWeather API)**  
   **• Portfolio Website (Vercel Deployment, Fetch API, React, JavaScript)**  
@@ -57,6 +59,12 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 <details>
 <summary>TikTok</summary>
   • TikTok
+</details>
+<details>
+<summary>Salifort Motors</summary>
+
+👉[Salifort Motors](https://github.com/watashiaashishgurung/Salifort-motors-capstone-project)
+
 </details>
 <details>
 <summary>Skyline Advanced</summary>
@@ -105,7 +113,7 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
   • [AWS kindle Store Bansenjuku - Aftercolony2025262](https://www.amazon.com/dp/B0DYVQ5D27?ref_=pe_93986420_775043100)
 
 </details>
-
+</details>
 </details>
 
 <details>
@@ -230,7 +238,5 @@ graph TD;
 - 🎥 **Community Engagement on Twitch, Discord, and YouTube**  
 
 ---
-
-
 
 </details>
