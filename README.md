@@ -1,15 +1,34 @@
 # About Me
 
 <summary>👋 Hi, I’m <strong>Aashish Gurung</strong></summary>
-- 👀 I’m interested in ... anything information technology related, with a passion for automation that aims to eliminate child labor and create algorithms to build bridges to a better future.
-- 🌱 I’m currently learning ... <strong>Advanced Data Analytics</strong>, focusing on exploratory data analysis, hypothesis testing, data visualization, and building machine learning models like Naive Bayes and decision trees.  
-  I'm also pursuing the <strong>IBM Full Stack JavaScript Developer Certificate</strong>, where I’m enhancing my skills in front-end and back-end development using React, Node.js, and Express, as well as exploring modern deployment techniques using Docker and Kubernetes.
-- 💞️ I’m looking to collaborate on ... topics like communication, energy management, data analytics, and data sciences, while never losing our sense of humor.
-- 📫 How to reach me ... find me here on <strong>GitHub</strong>, doing community work on <strong>Twitch.tv</strong>, or via <strong>LinkedIn</strong>.
-- 😄 Pronouns: ... <strong>Mr.</strong>
-- ⚡ Fun fact: ... "Since the beginning of mankind, we have been trying to catch light inside a stone, innit?"
 
----
+- 👀 I’m passionate about all things **Information Technology**, especially **cybersecurity**, **automation**, and **data science**.  
+  My vision is to eliminate child labor through intelligent automation and build digital bridges to a more ethical and equitable future.
+
+- 🌱 I’m currently sharpening my skills in:
+  - **Cybersecurity**, through the **Google Cybersecurity Certificate** and hands-on labs on **TryHackMe**, where I’ve completed modules like *Vulnerability Management with GSA* and am progressing in **SOC Level 1**, **penetration testing**, and **security engineering**.
+  - **Full-stack development**, having completed the **IBM Full Stack JavaScript Developer Certificate**, where I built and deployed a containerized React/Node.js app using **Docker** and **Kubernetes** on **IBM Cloud**.
+  - **Advanced Data Analytics**, with a focus on EDA, hypothesis testing, machine learning models (like Naive Bayes and decision trees), and storytelling with data.
+  - **IT support fundamentals**, in preparation for my **System and Network Administration** course at UCLL.
+
+- 💻 Currently working on:
+  - A cybersecurity capstone involving **Metasploit**, **Nmap**, and **GPG encryption**
+  - A **Pokémon RPG** fan project (*Pokémon Bansenjuku*) using **RPG Maker XP**
+  - Publishing my upcoming short story collection *"If We All Would Be the Same, That Would Be Boring"* — launching **September 7, 2025**
+
+- 💞️ I’m always open to collaboration on:
+  - **Data analytics**, **DevSecOps**, **AI ethics**, **creative storytelling**, and **community tech education** projects
+
+- 📫 You can find me:
+  - Right here on **GitHub**
+  - Doing community work on **Twitch.tv**
+  - Talking tech and impact on **LinkedIn**
+  - And maybe even philosophizing with you in a voice channel on **Discord**
+
+- 😄 Pronouns: **Mr.**
+
+- ⚡ Fun fact:  
+  *"Since the beginning of mankind, we’ve been trying to catch light inside a stone — innit?"*
 
 ### 🌟 **Example Projects**
 
