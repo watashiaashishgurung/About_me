@@ -6,15 +6,21 @@
   My vision is to eliminate child labor through intelligent automation and build digital bridges to a more ethical and equitable future.
 
 - 🌱 I’m currently sharpening my skills in:
-  - **Cybersecurity**, through the **Google Cybersecurity Certificate** and hands-on labs on **TryHackMe**, where I’ve completed modules like *Vulnerability Management with GSA* and am progressing in **SOC Level 1**, **penetration testing**, and **security engineering**.
-  - **Full-stack development**, having completed the **IBM Full Stack JavaScript Developer Certificate**, where I built and deployed a containerized React/Node.js app using **Docker** and **Kubernetes** on **IBM Cloud**.
+  - **Cybersecurity**, having completed the **Google Cybersecurity Certificate**, and continuing hands-on labs on **TryHackMe** (e.g. *Vulnerability Management with GSA*, progressing in **SOC Level 1**, **penetration testing**, **security engineering**). Preparing for the **CompTIA Security+** exam.
+  - **Cybersecurity**, having completed the **Google Cybersecurity Certificate**, and continuing hands-on labs on **TryHackMe** (e.g. *Vulnerability Management with GSA*, progressing in **SOC Level 1**, **penetration testing**, **security engineering**). Preparing for the **CompTIA Security+** exam.
+  
+  - **Full-stack development**, having completed the **IBM Full Stack JavaScript Developer Certificate**, where I built and deployed a containerized React/Node.js app using **Docker** and **Kubernetes** on **IBM Cloud**. Currently working on my **Skyline App** 🍂[Live Demo](https://watashiaashishgurung.github.io/skyline-app/)🍁
+  
   - **Advanced Data Analytics**, with a focus on EDA, hypothesis testing, machine learning models (like Naive Bayes and decision trees), and storytelling with data.
-  - **IT support fundamentals**, in preparation for my **System and Network Administration** course at UCLL.
+
+  - **IT support fundamentals** (UCLL System & Network Administration course canceled).
+  - **CompTIA A+ (In Progress)** studying core hardware, OS, networking, and troubleshooting.
 
 - 💻 Currently working on:
-  - A cybersecurity capstone involving **Metasploit**, **Nmap**, and **GPG encryption**
-  - A **Pokémon RPG** fan project (*Pokémon Bansenjuku*) using **RPG Maker XP**
-  - Publishing my upcoming short story collection *"If We All Would Be the Same, That Would Be Boring"* — launching **September 7, 2025**
+  - Publishing my upcoming short story collection *"If We All Would Be the Same, That Would Be Boring"* — launching **Sometime in 2026**
+  - Building **SOHO labs**: setting up small office/home office networks and practicing **subnetting**, **firewalls** and **VPN"s**
+  - Volunteering: repairing **electronic devices** and **household appliances**
+  - **Experimenting with VMs** (VirtualBox/VMware), using snapshots and isolated lab networks and other CS tools
 
 - 💞️ I’m always open to collaboration on:
   - **Data analytics**, **DevSecOps**, **AI ethics**, **creative storytelling**, and **community tech education** projects
@@ -59,8 +65,10 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 
 <details>
 <summary>Personal Projects</summary>      
- 
-  **• SkylineAdvanced Project**
+ <summary>Skyline app</summary>      
+
+  👉[Skyline App Repository](https://github.com/watashiaashishgurung/skyline-app)
+  | [Live Demo](https://watashiaashishgurung.github.io/skyline-app/)
 </details>
 
 <details>
@@ -73,7 +81,9 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 </details>
 <details>
 <summary>NYC TLC</summary>
-  • NYC TLC
+  
+  👉[NYC TLC Repository](https://github.com/watashiaashishgurung/NYC-TLC-automatidata)
+
 </details>
 <details>
 <summary>TikTok</summary>
@@ -86,8 +96,11 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 
 </details>
 <details>
-<summary>Skyline Advanced</summary>
-  • Skyline Advanced
+<summary>Skyline app</summary>
+
+  👉[Skyline App Repository](https://github.com/watashiaashishgurung/skyline-app)
+  | [Live Demo](https://watashiaashishgurung.github.io/skyline-app/)
+  
 </details>
 <details>
 <summary>and more</summary>
@@ -109,11 +122,19 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 <details>
 <summary>Google IT Support Professional</summary>  
   • Volunteer work deNomade
+
+  • Repair Café volunteering (electronic devices & household appliances)
 </details>
 </details>
 
 <details>
-<summary>Cybersecurity</summary>  
+<summary>Cybersecurity</summary>
+
+<details>
+<summary>Cyber security EDA</summary>
+
+👉 [CybersecurityEDA Repository](https://github.com/watashiaashishgurung/cybercrimeEDA)
+</details>
 <details>
 <summary>The Master Channel</summary>  
   • Cybersecurity Fundamentals Crash Course 2023
@@ -121,7 +142,12 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 <details>
 <summary>TryHackMe</summary>  
   • Cybersecurity Precourse 2025
+
   • Cyber 101 2025
+  
+  • Security Engineer
+  
+  • DevSecOps
 </details>
 </details>
 
@@ -146,6 +172,8 @@ Passionate about **automation, data science, and full-stack development**, I thr
 ---
 
 ## 🌱 **Currently Learning**
+- **Cybersecurity**: Completed the Google Cybersecurity Certificate; continuing practical labs (TryHackMe) and progressing toward SOC Level 1 skills.
+- **CompTIA A+ Certification (In Progress)**: Core hardware, operating systems, networking, security, and troubleshooting fundamentals.
 - **Advanced Data Analytics**: Exploratory data analysis, hypothesis testing, data visualization, and machine learning models like Naive Bayes & decision trees.
 - **IBM Full-Stack JavaScript Developer Certificate**: Enhancing skills in **front-end & back-end development** with **React, Node.js, Express**, and exploring **modern deployment techniques** with **Docker & Kubernetes**.
 
@@ -203,6 +231,7 @@ graph TD;
 | Certification | Year |
 |--------------|------|
 | IBM Full-Stack JavaScript Developer Certificate | 2024-2025 |
+| Google Cybersecurity Certificate | 2025 |
 | Google Advanced Data Analytics Certificate | 2024 |
 | Google Data Analytics Professional Certificate | 2024 |
 | Google IT Support Professional Certificate | 2023 |
